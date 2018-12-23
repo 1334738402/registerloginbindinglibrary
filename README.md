@@ -1,6 +1,7 @@
 添加
 
 allprojects {
+
     repositories {
     
         ...
@@ -12,4 +13,4 @@ allprojects {
 }
 
 
-registerloginbindinglibrary
+implementation 'com.boya.registerloginbindinglibrary:registerloginbindinglibrary:1.0.0'
